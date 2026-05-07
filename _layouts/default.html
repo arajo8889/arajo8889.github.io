@@ -27,9 +27,17 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        <ul class="profile-links">
+          {% if site.orcid_url %}
+          <li><a href="{{ site.orcid_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-orcid" aria-hidden="true"></i><span>ORCID</span></a></li>
+          {% endif %}
+          {% if site.scholar_url %}
+          <li><a href="{{ site.scholar_url }}" target="_blank" rel="noopener"><i class="fa-brands fa-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a></li>
+          {% endif %}
+          {% if site.university_url %}
+          <li><a href="{{ site.university_url }}" target="_blank" rel="noopener"><i class="fa-solid fa-building-columns" aria-hidden="true"></i><span>University Page</span></a></li>
+          {% endif %}
+        </ul>
 
         {% if site.show_downloads %}
         <ul class="downloads">

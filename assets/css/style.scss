@@ -13,3 +13,34 @@ section p {
   margin: 0 0 20px;
 }
 
+ul.profile-links {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 20px;
+  width: 270px;
+}
+
+ul.profile-links li {
+  margin: 0 0 6px;
+}
+
+ul.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #267CB9;
+  font-size: 14px;
+}
+
+ul.profile-links i {
+  width: 18px;
+  text-align: center;
+  font-size: 18px;
+  color: #555;
+}
+
+ul.profile-links a:hover i,
+ul.profile-links a:focus i {
+  color: #069;
+}
+

@@ -4,9 +4,9 @@ layout: default
 
 ### Welcome to my website!
 
-I am an Associate Professor in the Department of Economics at the University of Bath. I work on topics related to energy transition, firm and industry dynamics during decarbonization and optimal environmental policy designs. 
+I am an environmental economist working at the University of Bath. I work on topics related to energy transition, firm and industry dynamics during decarbonization and optimal environmental policy designs. 
 
-My CV is available [here](./another-page.html).
+My CV is available [here](https://drive.google.com/file/d/1in6cpqqZ5WjM6PvJy8GgJgPqEbLcuH-S/view).
 
 Contact me at aj2306 [at] bath.ac.uk.
 
