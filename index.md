@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Welcome to my website!
+### Welcome to my website!
 
 I am an Associate Professor in the Department of Economics at the University of Bath. I work on topics related to energy transition, firm and industry dynamics during decarbonization and optimal environmental policy designs. 
 
@@ -10,130 +10,46 @@ My CV is available [here](./another-page.html).
 
 Contact me at aj2306 [at] bath.ac.uk.
 
+### Publications
+
+[Substitution between Clean and Dirty Energy with Biased Technical Change](https://onlinelibrary.wiley.com/doi/10.1111/iere.12743).
+
+_International Economic Review_. (2025) 66 (2), 883-902.
+
+
+[How Constant is Constant Elasticity of Substitution? Endogenous Substitution between Clean and Dirty Energy](https://drive.google.com/file/d/1oO_OzU26sJ24p5oKTv9nCsK2mNl0PMc1/view) with A. Miftakhova. 
+
+_Journal of Environmental Economics and Management._ (2024) 124:102934.
+
+
+[Complementarity between Labor and Energy: A Firm-level Analysis](https://drive.google.com/file/d/12KpA6SP9iIqiM0toLYCsUVI63Opj0SvP/view) with L. Bretschger.
+
+_Journal of Environmental Economics and Management._ (2024) 124:102934.
+
+
+[Culture and Compliance: Evidence from the EU Emissions Trading Scheme](https://doi.org/10.1086/711158).
+
+_Journal of Law and Economics._ (2021) 64:1, 181-205.   
+
+
+[Trust and CO2 Emissions: Cooperation on a Global Scale](https://doi.org/10.1016/j.jebo.2021.08.010) with S. Carattini.
+
+_Journal of Economic Behavior & Organization._ (2021) 190, 922–937.  
+
+
+[The Effect of Migration on Trust in Communities of Origin](http://www.accessecon.com/Pubs/EB/2019/Volume39/EB-19-V39-I2-P148.pdf).
+
+_Economics Bulletin._ (2019) 39(2), 1571-85.
+
 
 ### Working Papers
 
-"Firm Heterogeneity, Industry Dynamics, and Climate Policy'' 
+[Firm Heterogeneity, Industry Dynamics, and Climate Policy](https://drive.google.com/file/d/1WWpyQnAstgCuV3lvpRenvdVOdzFYiNVG/view) with C. Karydas. 
 
-with C. Karydas. 
-
-2023.  Bath Economics Research Papers No. 94/22 
-
-Conditionally Accepted at American Economic Journal: Economic Policy
-
-*
-
-*
-
-### Publications
-
-*
-
-*
-
-*
+Conditionally Accepted at _American Economic Journal: Economic Policy_
 
 
->[Link to another page](./another-page.html).
+The Survival of the Energy-Fittest: Evidence from French manufacturing with S. Houde. 
 
-### Header 3
+How did energy prices affect productivity? with A. Shaefer.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
