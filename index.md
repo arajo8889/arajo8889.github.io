@@ -20,6 +20,13 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+>[Link to another page](./another-page.html).
+
 ### Header 3
 
 ```js
