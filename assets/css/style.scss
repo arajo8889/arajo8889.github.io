@@ -6,6 +6,10 @@
 a:hover,
 a:focus {
   font-weight: inherit;
-  text-decoration: underline;
+  text-decoration: none;
+}
+
+section p {
+  margin: 0 0 32px;
 }
 
