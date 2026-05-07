@@ -53,3 +53,24 @@ ul.profile-links a:focus i {
   color: #069;
 }
 
+@media (max-width: 960px) {
+  header {
+    text-align: center;
+    padding-right: 0;
+  }
+
+  header img {
+    margin: 0 auto 20px;
+  }
+
+  ul.profile-links {
+    width: auto;
+    max-width: 270px;
+    margin: 0 auto 20px;
+  }
+
+  ul.profile-links li {
+    text-align: center;
+  }
+}
+
