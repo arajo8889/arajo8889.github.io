@@ -48,8 +48,7 @@ _Economics Bulletin._ (2019) 39(2), 1571-85.
 
 Conditionally Accepted at _American Economic Journal: Economic Policy_
 
-
-The Survival of the Energy-Fittest: Evidence from French manufacturing with S. Houde. 
-
+[The Survival of the Energy-Fittest: Evidence from French manufacturing]() with S. Houde. 
+ 
 How did energy prices affect productivity? with A. Shaefer.
 
