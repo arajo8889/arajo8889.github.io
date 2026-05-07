@@ -8,7 +8,6 @@ I am an environmental economist working at the University of Bath. I work on top
 
 My CV is available [here](https://drive.google.com/file/d/1in6cpqqZ5WjM6PvJy8GgJgPqEbLcuH-S/view).
 
-Contact me at aj2306 [at] bath.ac.uk.
 
 ### Publications
 
