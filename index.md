@@ -2,29 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+#### Welcome to my website!
 
-[Link to another page](./another-page.html).
+I am an Associate Professor in the Department of Economics at the University of Bath. I work on topics related to energy transition, firm and industry dynamics during decarbonization and optimal environmental policy designs. 
 
-There should be whitespace between paragraphs.
+My CV is available [here](./another-page.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Contact me at aj2306 [at] bath.ac.uk.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Working Papers
 
-## Header 2
+"Firm Heterogeneity, Industry Dynamics, and Climate Policy'' 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+with C. Karydas. 
 
-## Header 2
+2023.  Bath Economics Research Papers No. 94/22 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Conditionally Accepted at American Economic Journal: Economic Policy
+
+*
+
+*
+
+### Publications
+
+*
+
+*
+
+*
+
+
 >[Link to another page](./another-page.html).
 
 ### Header 3
