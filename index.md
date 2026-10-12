@@ -4,7 +4,7 @@ layout: default
 
 ### Welcome to my website!
 
-I am an environmental economist working at the University of Bath. I work on topics related to the energy transition, firm and industry dynamics during decarbonization, and optimal environmental policy designs. 
+I am an environmental economist working at the University of Bath. My research investigates  how the transition to Net Zero can be both environmentally effective and economically dynamic. Specifically, I'm interested in questions such as (1) What role does business dynamism play in achieving the transition? (2) How does the market power of large industrial firms affect the pace and incidence of decarbonisation? (3) What kind of climate policy can stimulate firm growth and market dynamism rather than reinforce incumbent advantage?
 
 My CV is available [here](https://drive.google.com/file/d/1tC-g6IX171noacnQu-Mq1BSx422Ct7Jg/view?usp=sharing).
 
