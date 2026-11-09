@@ -36,5 +36,7 @@ _Economics Bulletin._ (2019) 39(2), 1571-85.
 Conditionally Accepted at _American Economic Journal: Economic Policy_
 
 [The Survival of the Energy-Fittest: Evidence from French manufacturing](https://www.dropbox.com/scl/fi/mkdnif1rjs4r0saivfvll/cesifo1_wp12695.pdf?rlkey=tghakkuim23mai5qo091ca2rc&dl=0) with S. Houde.<br>
+Revise and Resubmit at _The Review of Economics and Statistics_
+
 
 
