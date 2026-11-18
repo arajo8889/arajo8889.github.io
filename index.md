@@ -8,6 +8,13 @@ I am an environmental economist working at the University of Bath. My research i
 
 My CV is available [here](https://drive.google.com/file/d/1tC-g6IX171noacnQu-Mq1BSx422Ct7Jg/view?usp=sharing).
 
+### Working Papers
+
+[Firm Heterogeneity, Industry Dynamics, and Climate Policy](https://drive.google.com/file/d/1WWpyQnAstgCuV3lvpRenvdVOdzFYiNVG/view) with C. Karydas.<br>
+Conditionally Accepted at _American Economic Journal: Economic Policy_
+
+[The Survival of the Energy-Fittest: Evidence from French manufacturing](https://www.dropbox.com/scl/fi/mkdnif1rjs4r0saivfvll/cesifo1_wp12695.pdf?rlkey=tghakkuim23mai5qo091ca2rc&dl=0) with S. Houde.<br>
+Revise and Resubmit at _The Review of Economics and Statistics_
 
 ### Publications
 
@@ -30,13 +37,6 @@ _Journal of Economic Behavior & Organization._ (2021) 190, 922–937.
 _Economics Bulletin._ (2019) 39(2), 1571-85.
 
 
-### Working Papers
-
-[Firm Heterogeneity, Industry Dynamics, and Climate Policy](https://drive.google.com/file/d/1WWpyQnAstgCuV3lvpRenvdVOdzFYiNVG/view) with C. Karydas.<br>
-Conditionally Accepted at _American Economic Journal: Economic Policy_
-
-[The Survival of the Energy-Fittest: Evidence from French manufacturing](https://www.dropbox.com/scl/fi/mkdnif1rjs4r0saivfvll/cesifo1_wp12695.pdf?rlkey=tghakkuim23mai5qo091ca2rc&dl=0) with S. Houde.<br>
-Revise and Resubmit at _The Review of Economics and Statistics_
 
 
 
